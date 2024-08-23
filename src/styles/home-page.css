@@ -1,0 +1,10 @@
+.home-text-wrapper {
+  text-align: left;
+  max-width: 1000px;
+  margin: auto;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+  padding: 0px 10px;
+}

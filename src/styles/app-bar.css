@@ -1,0 +1,24 @@
+.app-bar-container {
+  width: 100%;
+  background-color: #dcdcdc;
+  height: 100px;
+  text-align: -webkit-center;
+  align-content: center;
+  align-content: end;
+  padding-bottom: 8px;
+}
+.app-bar-wrapper {
+  display: flex;
+  max-width: 1024px;
+  font-family: "Inter", sans-serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 400;
+  font-style: normal;
+  font-size: clamp(1rem, 0.94vw + 0.747rem, 1.875rem);
+  justify-content: space-evenly;
+}
+
+.buttons {
+  height: 40px;
+  min-width: 30px !important;
+}
